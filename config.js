@@ -36,15 +36,15 @@ module.exports = {
 
   ANTIFAKE : process.env.ANTIFAKE || '',
 
-  FORWARD: process.env.FORWARD || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
+  FORWARD: process.env.FORWARD || '🇹Єa⃟〽️💯🇩ƦƛƓƠƝ;~Jasil;Copyright by Abu;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg;audio;audio/mp4;https://github.com/Afx-Abu/Abu-MD',
   
-  BOT_INFO: process.env.BOT_INFO || '𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
+  BOT_INFO: process.env.BOT_INFO || '🇹Єa⃟〽️💯🇩ƦƛƓƠƝ;~Jasil;Copyright by Abu;923214054276;🇹Єa⃟〽️💯🇩ƦƛƓƠƝ;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi @user It was Nice Seeing you",
 
-  STICKER_DATA: process.env.STICKER_DATA || "Abu",
+  STICKER_DATA: process.env.STICKER_DATA || "🇹Єa⃟〽️💯🇩ƦƛƓƠƝ",
 
   ACR_A: "ff489a0160188cf5f0750eaf486eee74",
 
